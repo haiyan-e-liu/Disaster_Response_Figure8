@@ -18,7 +18,9 @@ This project analyzes disaster data from Figure Eight to build a model for an AP
 
 ## File Description <a name = "files"></a>
 
-The `message.csv` contains original messages received after a disaster, and the `categories.csv` contains the category of the messages. 
+* `process_data.py` is a python script that containts the data cleaning pipeline.
+
+* `message.csv` contains original messages received during a disaster, and the `categories.csv` contains the categories of each message. 
 
 # Results <a name = "results"></a>
 
