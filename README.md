@@ -11,7 +11,7 @@
 You will need the standard data science libraries found in the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 # Project Motivation <a name = "motivation"></a>
-This project analyzes disaster data from Figure Eight to build a model for an API that classifies disaster messages. There are three componenst of this projects:
+This project analyzes disaster data from Figure Eight to build a model for an API that classifies disaster messages. Natural Language Processing methods are used to clean the data. There are three componenst of this projects:
 1. ETL pipeline
 2. ML pipeline
 3. Flask web app
